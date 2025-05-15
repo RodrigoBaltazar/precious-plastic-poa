@@ -17,8 +17,8 @@ body {
 
 /* Header */
 header {
-    background-color: #0073aa;
-    color: #fff;
+    background-color: #B7D8E5;
+    color: #333;
     padding: 15px 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
@@ -49,7 +49,7 @@ header {
 }
 
 .site-logo h1 a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
     font-size: 1.8rem;
 }
@@ -72,7 +72,7 @@ header {
 }
 
 .nav-link {
-    color: #fff !important;
+    color: #333 !important;
     font-size: 1.1rem;
     padding: 8px 15px;
     transition: all 0.3s ease;
@@ -80,8 +80,8 @@ header {
 }
 
 .nav-link:hover {
-    color: #f0f0f0 !important;
-    background-color: rgba(255,255,255,0.1);
+    color: #000 !important;
+    background-color: rgba(0,0,0,0.05);
     border-radius: 4px;
 }
 
@@ -99,17 +99,19 @@ header {
     padding: 50px 20px;
     margin-bottom: 40px;
     background: #B7D8E5;
-    color: white;
+    color: #333;
     text-align: center;
 }
 
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 15px;
+    color: #333;
 }
 
 .hero p {
     font-size: 1.2rem;
+    color: #333;
 }
 
 /* Grid de Posts */
